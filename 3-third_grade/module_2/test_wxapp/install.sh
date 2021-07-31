@@ -1,0 +1,1 @@
+ adb install WeCom_android_3.1.11.17124_100001.apk
